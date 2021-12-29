@@ -6,3 +6,7 @@ Music is one of the best thing that has been developed over the years. Most of t
 
 # Objectives:-
 - Making a chatbot capable of chatting better than compared to humans.
+- Detection of the user's mood.
+- Suggesting good songs based on their emotions after chatting.
+- Simple interface for the user to understand.
+
