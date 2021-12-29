@@ -10,3 +10,5 @@ Music is one of the best thing that has been developed over the years. Most of t
 - Suggesting good songs based on their emotions after chatting.
 - Simple interface for the user to understand.
 
+# Used Platforms:-
+- [Named Link](<https://anvil.works.com/> "ANVIL Framework")
