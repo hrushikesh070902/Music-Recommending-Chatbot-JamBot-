@@ -11,4 +11,7 @@ Music is one of the best thing that has been developed over the years. Most of t
 - Simple interface for the user to understand.
 
 # Used Platforms:-
-- [ANVIL Framework](<https://anvil.works/> "ANVIL Framework")
+- [ANVIL Framework](<https://anvil.works/> "ANVIL Framework") - User Interface
+- [IBM Tone Analyzer](<https://tone-analyzer-demo.ng.bluemix.net/> "IBM Tone Analyzer") - Emotion Detector
+- [Last.fm API](<https://www.last.fm/> "Last.fm API") - Song Recommendation API
+- [Google Colaboratory](<https://colab.research.google.com/> "Google Colaboratory") - Backend
